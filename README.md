@@ -86,23 +86,23 @@ I am a skilled **Python Developer  , App Developer & AI Explorer** with a strong
 <div align="center">
   <h4>💻 Programming Languages</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,js,py&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,js,&theme=dark&perline=10" />
   </a>
 </div>
 <br/>
 <div align="center">
   <h4>🌐 Web Development</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,nodejs,express,flask&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,flask&theme=dark&perline=10" />
   </a>
   <br/>
-  <i>React.js, React Router DOM, React Bootstrap, HTML, CSS, Bootstrap, Node.js, Express.js, Flask</i>
+  <i>React.js, HTML, CSS, Flask</i>
 </div>
 <br/>
 <div align="center">
   <h4>📱 App Development</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,kotlin&theme=dark&perline=10" />
   </a>
 </div>
 <br/>
@@ -137,22 +137,22 @@ I am a skilled **Python Developer  , App Developer & AI Explorer** with a strong
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Asit-Kumar-Raut&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bishwaprakashrout2007-lang&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asit-Kumar-Raut&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Asit-Kumar-Raut&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bishwaprakashrout2007-lang&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=bishwaprakashrout2007-lang&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asit-Kumar-Raut&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishwaprakashrout2007-lang&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asit-Kumar-Raut&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=16161e&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bishwaprakashrout2007-lang&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=16161e&area=true&hide_border=true" width="100%" />
 </div>
 
 <br/>
@@ -175,6 +175,6 @@ I am a skilled **Python Developer  , App Developer & AI Explorer** with a strong
 <!-- Footer -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/Cool-Ninja.gif" width="150" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&center=true&width=400&color=FF3366&lines=Made+with+❤️+by+Asit+Kumar+Raut" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&center=true&width=400&color=FF3366&lines=Made+with+❤️+by+Bishwa+Prakash+Rout" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" width="100%"/>
 </div>
