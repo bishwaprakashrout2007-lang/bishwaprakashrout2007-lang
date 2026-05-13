@@ -6,7 +6,7 @@
 <!-- Intro Section -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40" />
-  Python Developer & App Developer
+  Python Developer | App Developer | Exploring AI
 </h1>
 
 <div align="center">
@@ -49,19 +49,18 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212257468-1e47fb36-c0c1-4b13-aec0-b18cb6d221c9.gif" width="300" />
 
-I am a skilled **Full Stack Web & App Developer** with a strong technical foundation in **Reactjs, HTML, and CSS**. Beyond building user interfaces, I have expanded my coding toolkit with **Python** and have solid expertise in **Java and Kotlin for App Development**. I possess a natural curiosity that drives me to always seek out new things to learn.
+I am a skilled **Python Developer  , App Developer & AI Explorer** with a strong technical foundation in **Python, HTML, CSS, Django, Flask**. Beyond building user interfaces, I have expanded my coding toolkit with **Python** and have solid expertise in **Python and Kotlin for App Development**. I possess a natural curiosity that drives me to always seek out new things to learn.
 
 <table>
   <tr>
     <td valign="top">
       <ul>
-        <li><img src="https://img.icons8.com/fluency/48/000000/code.png" width="20" /> I'm currently working on my portfolio and full-stack projects.</li>
-        <li><img src="https://img.icons8.com/fluency/48/000000/learning.png" width="20" /> I'm currently expanding my knowledge in Backend technologies and new frameworks.</li>
-        <li><img src="https://img.icons8.com/fluency/48/000000/company.png" width="20" /> Contributed to company projects like <b>MarkX</b>.</li>
-        <li><img src="https://img.icons8.com/fluency/48/000000/chat.png" width="20" /> Ask me about <b>React, Python, Java, Kotlin, and App Development</b>.</li>
-        <li><img src="https://img.icons8.com/fluency/48/000000/mail.png" width="20" /> Reach me at: <b><a href="mailto:asitraut2006@gmail.com">asitraut2006@gmail.com</a></b></li>
+        <li><img src="https://img.icons8.com/fluency/48/000000/code.png" width="20" /> I'm currently working on my portfolio and Python projects.</li>
+        <li><img src="https://img.icons8.com/fluency/48/000000/learning.png" width="20" /> I'm currently expanding my knowledge in Machine Learning technologies and new frameworks.</li>
+        <li><img src="https://img.icons8.com/fluency/48/000000/chat.png" width="20" /> Ask me about <b>Python, Java, Kotlin, and App Development</b>.</li>
+        <li><img src="https://img.icons8.com/fluency/48/000000/mail.png" width="20" /> Reach me at: <b><a href="mailto:bishwaprakashrout2007@gmail.com">bishwaprakashrout2007@gmail.com</a></b></li>
         <li><img src="https://img.icons8.com/fluency/48/000000/lightning-bolt.png" width="20" /> Fun Fact: I stay active and energized through my love for sports!</li>
-        <li><img src="https://img.icons8.com/fluency/48/000000/domain.png" width="20" /> Portfolio: <b><a href="https://asit-0.onrender.com/">asit-0.onrender.com</a></b></li>
+        <li><img src="https://img.icons8.com/fluency/48/000000/domain.png" width="20" /> Portfolio: <b><a href=""></a></b></li>
       </ul>
     </td>
   </tr>
