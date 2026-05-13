@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20Connections!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I%27m%20Asit%20Kumar%20Raut&descSize=25&descAlignY=60&descAlign=50" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20Connections!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I%27m%20Bishwa%20Prakash%20Rout&descSize=25&descAlignY=60&descAlign=50" alt="Header" width="100%"/>
 </div>
 
 <!-- Intro Section -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40" />
-  Full Stack Web & App Developer
+  Python Developer & App Developer
 </h1>
 
 <div align="center">
@@ -14,26 +14,23 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/Asit-Kumar-Raut">
-    <img src="https://komarev.com/ghpvc/?username=Asit-Kumar-Raut&label=Profile%20views&style=for-the-badge&color=blue" alt="Profile Views" />
+  <a href="https://github.com/bishwaprakashrout2007-lang">
+    <img src="https://komarev.com/ghpvc/?username=bishwaprakashrout2007-lang&label=Profile%20views&style=for-the-badge&color=blue" alt="Profile Views" />
   </a>
-  <a href="https://github.com/Asit-Kumar-Raut">
-    <img src="https://img.shields.io/github/followers/Asit-Kumar-Raut?style=for-the-badge&color=green" alt="Followers"/>
+  <a href="https://github.com/bishwaprakashrout2007-lang">
+    <img src="https://img.shields.io/github/followers/bishwaprakashrout2007-lang?style=for-the-badge&color=green" alt="Followers"/>
   </a>
 </p>
 
 <!-- Social Media Links (Animated Hover via Skillicons) -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/asit-kumar-raut-275845322/">
+  <a href="https://www.linkedin.com/in/bishwa-prakash-rout-727833365/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" />
   </a>
-  <a href="https://www.instagram.com/_asit.0.__/">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50" />
-  </a>
-  <a href="https://github.com/Asit-Kumar-Raut">
+  <a href="https://github.com/bishwaprakashrout2007-lang">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" />
   </a>
-  <a href="mailto:asitraut2006@gmail.com">
+  <a href="mailto:bishwaprakashrout@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" />
   </a>
 </div>
