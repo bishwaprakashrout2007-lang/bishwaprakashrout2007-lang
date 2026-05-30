@@ -10,7 +10,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1500&center=true&width=550&color=36BCF7&lines=BISHWA+PRAKASH+ROUT;FULL+STACK+DEVELOPER;WEB+%26+APP+DEVELOPER;REACT+%2F+PYTHON;JAVA+%26+KOTLIN+APP+DEV" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1500&center=true&width=550&color=36BCF7&lines=BISHWA+PRAKASH+ROUT;FULL+STACK+DEVELOPER;WEB+%26+APP+DEVELOPER;REACT+%2F+PYTHON" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -30,7 +30,7 @@
   <a href="https://github.com/bishwaprakashrout2007-lang">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" />
   </a>
-  <a href="mailto:bishwaprakashrout@gmail.com">
+  <a href="mailto:bishwaprakashrout2007@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" />
   </a>
 </div>
@@ -86,30 +86,29 @@ I am a skilled **Python Developer  , App Developer & AI Explorer** with a strong
 <div align="center">
   <h4>💻 Programming Languages</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,js,php&theme=dark&perline=10" />
   </a>
 </div>
 <br/>
 <div align="center">
-  <h4>🌐 Web Development</h4>
+  <h4>🌐 Frontend</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,flask&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,angular,vite&theme=dark&perline=10" />
   </a>
   <br/>
-  <i>React.js, HTML, CSS, Flask</i>
 </div>
 <br/>
 <div align="center">
-  <h4>📱 App Development</h4>
+  <h4>📱 Backend & APIs</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,kotlin&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,py,flask,express,fastapi,django,pytorch,kotlin&theme=dark&perline=10" />
   </a>
 </div>
 <br/>
 <div align="center">
   <h4>🗄️ Database</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=mysql,aws,mongodb,gcp,firebase,azure,vue,flutter&theme=dark&perline=10" />
   </a>
 </div>
 <br/>
@@ -123,7 +122,7 @@ I am a skilled **Python Developer  , App Developer & AI Explorer** with a strong
 <div align="center">
   <h4>🛠️ Tools</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,git,github,vscode,windows&theme=dark&perline=10" />
   </a>
 </div>
 
